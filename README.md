@@ -1,6 +1,8 @@
 ![](https://images.cooltext.com/5508583.png) 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
+Perfil del Estudiante ✨ Gabriel Palacios ✨ (GabrielP7848):
+
 ## 	Hola a todos 👋😄
 
 ### 🌱 Estudiante del Instituto Tecnológico de Tijuana en la carrera de Sistemas 💻:
