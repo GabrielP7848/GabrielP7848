@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hola a todos 👋😄
+
+### 🌱 Estudiante del Instituto Tecnológico de Tijuana en la carrera de Sistemas 💻:
+- 💬 Capacitación de Contabilidad en Bachillerato
+- ⚡ Dato Curioso Sobre Mi: Puedo escuchar ruidos muy finos (silenciosos), por lo cual no me gustan situaciones ruidosas 🤔🔕
+- 👯 Idioma Peculiar: Tengo conocimientos de LSM (Lengua de Señas Mexicanas) ♥️
 
 <!--
 **GabrielP7848/GabrielP7848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
